@@ -1,5 +1,5 @@
 
-javascript 中的bai?是属性。例如：var text={  x:1,y:2   }    ，  输出：text.x       那么值就是1   如此而已。
+javascript 中的?是属性。例如：var text={  x:1,y:2   }    ，  输出：text.x       那么值就是1   如此而已。
 
 
 
